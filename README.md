@@ -19,7 +19,7 @@
 </p>
 
 ## Purpose
-The first goal of this project is to get a global view of the event log ids that will appear in the event viewer when you activate a policy.<br/>
+The first goal of this project is to get a global view of what event log ids are generated when a policy is enabled.<br/>
 I then added the estimated volume of each policy if it is enabled.<br/>
 I have also marked the audit policies that are recommended by ANSSI to be enabled.<br/>
 This MindMap was created from the Windows 10 documentation. However, the recommendations are applicable to both client and server versions of Windows.<br/><br/>
