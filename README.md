@@ -22,7 +22,7 @@
 The first goal of this project is to get a global view of what event log ids are generated when a policy is enabled.<br/>
 I then added the estimated volume of each policy if it is enabled.<br/>
 I have also marked the audit policies that are recommended by ANSSI to be enabled.<br/>
-This MindMap was created from the Windows 10 documentation. However, the recommendations are applicable to both client and server versions of Windows.<br/><br/>
+This MindMap was created based on the documentation for Windows 10/11 and Windows Server >= 2016<br/><br/>
 <p align="center">
 	<a href="Files/WindowsAdvancedAuditPolicy.pdf" alt="WindowsAdvancedAuditPolicy.pdf">Display the PDF version</a>
 </p>
