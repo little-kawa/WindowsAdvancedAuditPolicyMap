@@ -19,7 +19,7 @@
 </p>
 
 ## Purpose
-The first purpose of this project is to establish an exhaustive map of the correspondence between audit policy settings and event ids.<br/>
+The first purpose of this project is to establish an exhaustive map of the correspondence between Windows advanced audit policy settings and event ids.<br/>
 I then added the estimated volume of each policy settings if enabled.<br/>
 I also marked audit policy settings recommended by ANSSI to be enabled.<br/>
 This project is based on the documentation for Windows 10/11 and Windows Server >= 2016<br/><br/>
